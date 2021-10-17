@@ -1,5 +1,5 @@
 [package]
-name = "pause-if-not-zero"
+name = "co"
 version = "0.1.0"
 edition = "2018"
 
